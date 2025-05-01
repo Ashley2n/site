@@ -89,3 +89,11 @@ Lydiann 	Birkner,
 Ashley	Abongwa,
 Laillah	Zainath,
 Ylyas 	Movlyamov
+
+### Game Development Results
+---
+
+**Responses:**  3\
+**Days:** Tuseday, Wednesday, or Thursday\
+**Time:** (12 - 4)\
+**Game-Jam:** Unanomous agrrement
